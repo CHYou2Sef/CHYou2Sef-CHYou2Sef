@@ -1,0 +1,46 @@
+name: Generate Snake
+
+on:
+  # Run automatically every 24 hours (Midnight UTC)
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Allows to manually run the job at any time via the Actions tab
+  workflow_dispatch:
+  
+  # Run on every push on the master/main branch so you see immediate results
+  push:
+    branches:
+    - master
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ CHYou2Sef }}
+          # This defines the output files. We are adding a "COSMOS" specific version.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+            # 🎨 CUSTOM COSMOS THEME:
+            # Snake Color: Neon Cyan (#00F7FF)
+            # Cell Colors: Void -> Deep Blue -> Purple -> Hot Pink -> White Star
+            dist/github-contribution-grid-snake-cosmos.svg?color_snake=#00F7FF&color_dots=#161B22,#1f2d5c,#6d28d9,#db2777,#ffffff
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
