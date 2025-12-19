@@ -29,31 +29,16 @@
 
 <br />
 
-<h3 align="center">🛠️ THE ARSENAL</h3>
+<h3 align="center">🪐 SKILL CONSTELLATION</h3>
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=computervision&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  
+  <p><i>(Drag to rotate the constellation)</i></p>
+  <a href="https://github.com/CHYou2Sef">
+    <img src="https://github-readme-3d-profile.vercel.app/api?username=CHYou2Sef&header-bg=0d1117&bg-color=0d1117&fg-color=00f7ff&header-color=00f7ff&hide-border=true&box-shadow=0&animate=true&honor-rank=true&skills=python,java,cpp,react,nodejs,docker,aws,linux,kali,mysql,pytorch,arduino,raspberrypi,dart,flutter" alt="3D Skills" />
+  </a>
 </div>
-
 <br />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=MISSION%20BRIEFING&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Overview&descAlign=50&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=THE%20ARSENAL&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Technologies&descAlign=50&descSize=15)
 
 <h3 align="center">🚀 PROJECT CONSTELLATIONS</h3>
 <table align="center">
@@ -86,6 +71,29 @@
 </table>
 
 <br />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=DEV%20LOG&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Professional%20Development&descAlign=50&descSize=15)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Current Research</h3>
+        <ul>
+          <li><b>Focus:</b> Advanced Pentesting & Zero-Day Exploits</li>
+          <li><b>Reading:</b> "Black Hat Python" & "Clean Architecture"</li>
+          <li><b>Goal:</b> Achieving OSCP Certification (2026)</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏗️ Recent Commits</h3>
+        <a href="https://github.com/CHYou2Sef">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CHYou2Sef&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">📊 FLIGHT TELEMETRY</h3>
 <div align="center">
@@ -129,4 +137,20 @@
   <a href="mailto:youssef.chebl@enicar.ucar.tn">
     <img src="https://img.shields.io/badge/Email-youssef.chebl-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<div align="center">
+  <h3>📡 ESTABLISH UPLINK</h3>
+  <p>Ready to collaborate on AI Architectures or Security Audits?</p>
+  
+  <a href="mailto:youssef.chebl@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/Send_Transmission-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF&borderColor=00F7FF" />
+  </a>
+  <a href="https://linkedin.com/in/youssef-chebl-in">
+    <img src="https://img.shields.io/badge/Connect_Signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <p><i>"Explaining the Cosmos through Code."</i></p>
 </div>
