@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/34/08/9b/34089b6c08665ba186358c8942006709.gif" width="100%" height="250px" style="object-fit: cover;" alt="Engineering Banner">
-</div>
+  <img src="https://i.pinimg.com/originals/34/08/9b/34089b6c08665ba186358c8942006709.gif" width="100%" alt="Engineering Banner">
 
-<div align="center">
+  <br>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" alt="Space Line" />
   
   <h1 align="center">
@@ -11,7 +11,7 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=System+Online:+Software+Engineer+%7C+AI+Architect;Mission:+Securing+IoT+Constellations;Deploying+90%25+Accuracy+Vision+Models;Status:+Ready+for+Capstone+(PFE)." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=System+Online:+Software+Engineer+%7C+AI+Architect;Mission:+Securing+IoT+Constellations;Deploying+90%25+Accuracy+Vision+Models;Status:+Ready+for+Capstone+%28PFE%29." alt="Typing SVG" />
   </a>
 
   <br /> 
@@ -26,9 +26,9 @@
 
   <table border="0">
     <tr>
-      <td align="center" width="80"><a href="#"><img src="https://flagcdn.com/w80/us.png" width="30"></a><br><b>EN</b></td>
-      <td align="center" width="80"><a href="#"><img src="https://flagcdn.com/w80/fr.png" width="30"></a><br><b>FR</b></td>
-      <td align="center" width="80"><a href="#"><img src="https://flagcdn.com/w80/tn.png" width="30"></a><br><b>AR</b></td>
+      <td align="center" width="80"><img src="https://flagcdn.com/w80/us.png" width="30"><br><b>EN</b></td>
+      <td align="center" width="80"><img src="https://flagcdn.com/w80/fr.png" width="30"><br><b>FR</b></td>
+      <td align="center" width="80"><img src="https://flagcdn.com/w80/tn.png" width="30"><br><b>AR</b></td>
     </tr>
   </table>
 </div>
@@ -45,14 +45,12 @@
 
 **👨‍💻 Pilot Profile**
 
-I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICarthage** (Tunisia) 🇹🇳. I bridge the gap between **Hardware** and **Software**, specializing in **Embedded AI**, and **Scalable Web Architectures**.
+I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** navigating the void between **Hardware** and **Software**. 
 
-* 🔭 **Current Goal:** Seeking a **Capstone Project (PFE)** in System Design or Cloud Computing.
-* 🧠 **Core Feat:** Deployed Edge-AI solutions with **90% accuracy**.
-* ⚡ **Performance:** Optimized APIs to handle **500+ daily requests**.
-* 🌱 **Learning:** Advanced Pentesting (OSCP Prep) & Cloud Native DevOps.
+Based in **Tunisia** 🇹🇳, I engineer **Secure IoT Constellations** and **Intelligent Edge Systems**. My mission involves architecting scalable web solutions and hardening systems against cyber threats. I am constantly upgrading my arsenal with **Advanced Pentesting** and **Cloud Computing** capabilities to tackle the next generation of engineering challenges.
 
 <br clear="right"/>
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=THE%20ARSENAL&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Tech%20Stack&descAlign=50&descSize=15)
 
@@ -70,7 +68,7 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
@@ -132,7 +130,7 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
   <summary><b>🏆 BONUS: Click to Reveal Trophies & Certs</b></summary>
   <div align="center">
     <br>
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=flat-square&logo=cisco" />
     <img src="https://img.shields.io/badge/HiveMQ-MQTT%20Associate-E31E24?style=flat-square&logo=hivemq" />
     <br><br>
@@ -166,6 +164,6 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
   </a>
   
   <br><br>
-  <img src="https://img.shields.io/badge/Signal_+216_27_363_604-00F7FF?style=flat-square&logo=whatsapp&logoColor=black" />
+  <img src="https://img.shields.io/badge/WhatsApp_+216_27_363_604-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 
 </div>
