@@ -47,7 +47,8 @@
 
 I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** navigating the void between **Hardware** and **Software**. 
 
-Based in **Tunisia** 🇹🇳, I engineer **Secure IoT Constellations** and **Intelligent Edge Systems**. My mission involves architecting scalable web solutions and hardening systems against cyber threats. I am constantly upgrading my arsenal with **Advanced Pentesting** and **Cloud Computing** capabilities to tackle the next generation of engineering challenges.
+Based in **Tunisia** 🇹🇳, I engineer **Secure IoT Constellations** and **Intelligent Edge Systems**. 
+My mission involves architecting scalable web solutions and hardening systems against cyber threats. I am constantly upgrading my arsenal with **Advanced Pentesting** and **Cloud Computing** capabilities to tackle the next generation of engineering challenges.
 
 <br clear="right"/>
 
