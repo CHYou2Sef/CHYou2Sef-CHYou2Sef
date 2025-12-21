@@ -23,7 +23,7 @@
     My expertise spans <b>Ethical Hacking</b>, <b>Embedded AI</b>, and <b>Scalable Web Architectures</b>. I don't just build systems; I secure them against the dark side of the web.
   </p>
   <p>
-    [cite_start]<i>"Deploying Edge-AI solutions with <b>90% accuracy</b> and optimizing backend APIs to handle <b>500+ daily requests</b>."</i> [cite: 8, 22]
+   <i>"Deploying Edge-AI solutions with <b>90% accuracy</b> and optimizing backend APIs to handle <b>500+ daily requests</b>."</i> 
   </p>
 </div>
 
