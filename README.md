@@ -45,7 +45,7 @@
 
 **👨‍💻 Pilot Profile**
 
-I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICarthage** (Tunisia) 🇹🇳. I bridge the gap between **Hardware** and **Software**, specializing in **Embedded AI**, **Ethical Hacking**, and **Scalable Web Architectures**.
+I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICarthage** (Tunisia) 🇹🇳. I bridge the gap between **Hardware** and **Software**, specializing in **Embedded AI**, and **Scalable Web Architectures**.
 
 * 🔭 **Current Goal:** Seeking a **Capstone Project (PFE)** in System Design or Cloud Computing.
 * 🧠 **Core Feat:** Deployed Edge-AI solutions with **90% accuracy**.
