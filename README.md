@@ -140,8 +140,9 @@ My mission involves architecting scalable web solutions and hardening systems ag
     </a>
   </div>
 </details>
+<br/>
 
-<br>
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" />
 
 <div align="center">
@@ -164,7 +165,7 @@ My mission involves architecting scalable web solutions and hardening systems ag
     <img src="https://img.shields.io/badge/HackTheBox-Agent-11191f?style=for-the-badge&logo=hackthebox&logoColor=white">
   </a>
   
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/WhatsApp_+216_27_363_604-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 
 </div>
