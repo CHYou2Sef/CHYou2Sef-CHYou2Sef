@@ -117,15 +117,16 @@ My mission involves architecting scalable web solutions and hardening systems ag
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=FLIGHT%20TELEMETRY&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Data%20Logs&descAlign=50&descSize=15" />
 
+
+
+  <h3>🏙️ Infrastructure Grid</h3>
+  <img src="https://ssr-contributions-svg.vercel.app/_/CHYou2Sef?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=30&theme=tokyonight&widget_size=large&dark=true" alt="3D Contributions" />
+</div>
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=CHYou2Sef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHYou2Sef&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
   </p>
-</div>
-
-  <h3>🏙️ Infrastructure Grid</h3>
-  <img src="https://ssr-contributions-svg.vercel.app/_/CHYou2Sef?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=30&theme=tokyonight&widget_size=large&dark=true" alt="3D Contributions" />
 </div>
 <div align="center">
 <a href="https://github.com/CHYou2Sef">
@@ -134,7 +135,7 @@ My mission involves architecting scalable web solutions and hardening systems ag
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHYou2Sef&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHYou2Sef&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHYou2Sef&theme=2077" height="180em" />
-  <img src="https://streak-stats.vercel.app/?user=CHYou2Sef&theme=2077&hide_border=true" alt="GitHub Streak" width="50%"/>
+  <img src="https://streak-stats.vercel.app/?user=CHYou2Sef&theme=dark&hide_border=true" alt="GitHub Streak" width="50%"/>
 </div>
   
   <summary> <b>🏆Trophies & Certs</b></summary>
