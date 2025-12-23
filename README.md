@@ -127,7 +127,18 @@ My mission involves architecting scalable web solutions and hardening systems ag
 </div>
 
 <br>
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHYou2Sef&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHYou2Sef&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHYou2Sef&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHYou2Sef&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHYou2Sef&theme=2077" height="180em" />
+</div>
 
+  <img src="https://streak-stats.vercel.app/?user=CHYou2Sef&theme=dark&hide_border=true" alt="GitHub Streak" width="50%"/>
+
+  
   <summary> <b>🏆Trophies & Certs</b></summary>
   <div align="center">
     <br>
