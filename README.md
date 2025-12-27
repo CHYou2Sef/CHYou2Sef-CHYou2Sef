@@ -3,7 +3,7 @@
 
   <br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" alt="Space Line" />
+
   
   <h1 align="center">
     <b>Hi, I'm Youssef CHEBL </b>
@@ -48,7 +48,8 @@
 I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** navigating the void between **Hardware** and **Software**. 
 
 Based in **Tunisia** 🇹🇳, I engineer **Secure IoT Constellations** and **Intelligent Edge Systems**. 
-My mission involves architecting scalable web solutions and hardening systems against cyber threats. I am constantly upgrading my arsenal with **Advanced Pentesting** and **Cloud Computing** capabilities to tackle the next generation of engineering challenges.
+My mission involves architecting scalable web solutions and hardening systems against cyber threats. 
+I am constantly upgrading my arsenal with **Advanced Pentesting** and **Cloud Computing** capabilities to tackle the next generation of engineering challenges.
 
 <br clear="right"/>
 
